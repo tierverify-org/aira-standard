@@ -10,7 +10,23 @@ It is intentionally narrow, practical, and designed for real‑world workflows w
 The authoritative specification defining how to disclose non‑material AI assistance in human‑generated work.  
 Structured in a standards‑body format for clarity, adoption, and long‑term stability.
 
-👉 **[View the AIRA Standard v1.0](https://github.com/tierverify-org/aira-standard)**
+👉 **[View the AIRA Standard](https://github.com/tierverify-org/aira-standard/tree/main/docs/standard)**
+
+---
+
+## Frameworks
+
+Supporting frameworks that extend or operationalize the AIRA Standard.
+
+👉 **[View Frameworks](https://github.com/tierverify-org/aira-standard/tree/main/docs/framework)**
+
+---
+
+## Overview
+
+A high‑level introduction to AIRA, its purpose, and its intended use cases.
+
+👉 **[View the Overview](https://github.com/tierverify-org/aira-standard/tree/main/docs/overview)**
 
 ---
 
@@ -23,19 +39,15 @@ Supporting materials that expand on the core standard:
 - **Annex C — Rationale**  
 - **Annex D — Change History**
 
-👉 **[Browse the Annexes](https://github.com/tierverify-org/aira-standard/tree/main/annexes)**
+👉 **[Browse the Annexes](https://github.com/tierverify-org/aira-standard/tree/main/docs/annexes)**
 
 ---
 
-## Supporting Documents
+## FAQ
 
-Additional context and onboarding materials:
+Common questions and clarifications about AIRA, its scope, and its implementation.
 
-- Overview  
-- FAQ  
-- Adoption Guide  
-
-👉 **[View Supporting Documents](https://github.com/tierverify-org/aira-standard/tree/main/docs)**
+👉 **[View the FAQ](https://github.com/tierverify-org/aira-standard/tree/main/docs/faq)**
 
 ---
 
