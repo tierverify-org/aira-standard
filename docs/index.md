@@ -1,37 +1,47 @@
 # AIRA™ — AI‑Reviewed, Author‑Generated
 
 AIRA is a lightweight transparency standard for human‑generated content that includes non‑material AI assistance.  
-It is intentionally narrow, practical, and designed for real‑world workflows.
+It is intentionally narrow, practical, and designed for real‑world workflows where clarity matters more than complexity.
 
 ---
 
-## View the Standard
+## AIRA Standard v1.0
 
-**AIRA Standard v1.0**  
-A complete, standards‑body formatted specification defining how to disclose non‑material AI assistance.
+The authoritative specification defining how to disclose non‑material AI assistance in human‑generated work.  
+Structured in a standards‑body format for clarity, adoption, and long‑term stability.
 
-👉 [View the Standard on GitHub](https://github.com/tierverify-org/aira-standard)
+👉 **[View the AIRA Standard v1.0](https://github.com/tierverify-org/aira-standard)**
 
 ---
 
-## Annexes
+## Annexes A–D
 
-AIRA includes four annexes that provide templates, examples, rationale, and change history.
+Supporting materials that expand on the core standard:
 
-👉 [View Annexes A–D](https://github.com/tierverify-org/aira-standard/tree/main/annexes)
+- **Annex A — Templates**  
+- **Annex B — Examples**  
+- **Annex C — Rationale**  
+- **Annex D — Change History**
+
+👉 **[Browse the Annexes](https://github.com/tierverify-org/aira-standard/tree/main/annexes)**
 
 ---
 
 ## Supporting Documents
 
-- **Overview**  
-- **FAQ**  
-- **Adoption Guide**
+Additional context and onboarding materials:
 
-👉 [View Supporting Docs](https://github.com/tierverify-org/aira-standard/tree/main/docs)
+- Overview  
+- FAQ  
+- Adoption Guide  
+
+👉 **[View Supporting Documents](https://github.com/tierverify-org/aira-standard/tree/main/docs)**
 
 ---
 
 ## License
 
-AIRA is released under **CC‑BY‑4.0** and is free for anyone to adopt, adapt, and implement
+AIRA is released under the **CC‑BY‑4.0** license.  
+It is free to adopt, adapt, implement, and integrate into organizational workflows.
+
+© 2025 B.L. Jensen — tierverify‑org
