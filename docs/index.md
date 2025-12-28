@@ -1,4 +1,4 @@
-# AIRA™ — AI‑Reviewed, Author‑Generated
+# AIRA™ - AI‑Reviewed, Author‑Generated
 
 AIRA is a lightweight transparency standard for human‑generated content that includes non‑material AI assistance.  
 It is intentionally narrow, practical, and designed for real‑world workflows where clarity matters more than complexity.
@@ -7,7 +7,7 @@ It is intentionally narrow, practical, and designed for real‑world workflows w
 
 ## Overview
 
-AIRA™ — AI‑Reviewed, Author‑Generated — is a lightweight transparency standard for human‑generated work that includes non‑material AI assistance.  
+AIRA™ - AI‑Reviewed, Author‑Generated - is a lightweight transparency standard for human‑generated work that includes non‑material AI assistance.  
 It is designed for real‑world environments where creators, reviewers, and organizations need a simple, consistent way to disclose AI involvement without adding friction or bureaucracy.
 
 AIRA focuses on a narrow but critical slice of the transparency landscape:
@@ -20,7 +20,7 @@ The standard defines a clear, repeatable method for documenting this assistance 
 It is intentionally minimal, easy to adopt, and compatible with existing governance frameworks.
 
 AIRA is not a certification, audit, or compliance regime.  
-It is a practical disclosure layer — a way to communicate *how* AI contributed without overstating or obscuring the human role.
+It is a practical disclosure layer - a way to communicate *how* AI contributed without overstating or obscuring the human role.
 
 The goal is simple:  
 **Make transparency effortless, consistent, and trustworthy.**
@@ -48,10 +48,10 @@ Supporting frameworks that extend or operationalize the AIRA Standard.
 
 Supporting materials that expand on the core standard:
 
-- **Annex A — Templates**  
-- **Annex B — Examples**  
-- **Annex C — Rationale**  
-- **Annex D — Change History**
+- **Annex A - Templates**  
+- **Annex B - Examples**  
+- **Annex C - Rationale**  
+- **Annex D - Change History**
 
 👉 **[Browse the Annexes](https://github.com/tierverify-org/aira-standard/tree/main/docs/annexes)**
 
@@ -70,4 +70,4 @@ Common questions and clarifications about AIRA, its scope, and its implementatio
 AIRA is released under the **CC‑BY‑4.0** license.  
 It is free to adopt, adapt, implement, and integrate into organizational workflows.
 
-© 2025 B.L. Jensen — tierverify‑org
+© 2025 B.L. Jensen - tierverify‑org
